@@ -1,0 +1,100 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* header {
+    height: 10vh;
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    width: 33vw;
+    background-color: blanchedalmond;
+    justify-content: space-between;
+}
+
+#website-info {
+    height: 30vh;
+    background-color: cyan;
+}
+
+#icons {
+    height: 30vh;
+    background-color: rebeccapurple;
+}
+
+footer {
+    height: 30vh;
+    background-color: burlywood;
+}
+
+#cactus-wrapper {
+    width: 33vw;
+    /* background-color: blanchedalmond; */
+    /* display: flex;
+    align-items: center;
+    justify-content: center;
+} */
+
+/* #cactus {
+    width: 60px;
+}
+
+#website-info { */
+    /* background-image: url("./media/bg_image_1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#website-info-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+/* } 
