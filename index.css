@@ -1,23 +1,37 @@
 
 * header {
-    height: 10vh;
-    background-color: darkgray;
+    height: 7vh;
+    background-color: rgb(22, 22, 22);
     display: flex;
-    justify-content: space-around;
     align-items: center;
 }
 
+.github-logo {
+    background-color: rgb(22, 22, 22);
+    height: 45px;
+    width: 45px; 
+    margin: 5px;
+}
 
+.kitten-pic {
+    width: 40px; 
+    Height: 40px;
+    border-radius: 60%;
+    margin: 5px;
+}
+.search-bar {
+    background-color: red;
+    height: 25px;
+    width: 200px;
+    margin: 5px;
+}
 
-
-
-
-
-
-
-
-
-
+ul {
+    display: flex;
+    width: 33vw;
+    background-color: blanchedalmond;
+    justify-content: space-between;
+}
 
 
 
