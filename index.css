@@ -1,5 +1,6 @@
 
 * header {
+    box-sizing: border-box;
     height: 6vh;
     background-color: rgb(22, 22, 22);
     display: flex;
@@ -16,6 +17,7 @@
 .kitten-pic {
     width: 40px; 
     Height: 40px;
+    /* background-image: url('url here with https://'); */
     border-radius: 60%;
     margin: 5px;
 }
@@ -29,14 +31,17 @@
     border-width: 1px;
     border-color: gray;
     width: 300px;
-    margin: 5px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .pull-requests {
     color: white;
     text-align: center;
     font-size: 16px;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     width: fit-content;
 
 }
@@ -45,7 +50,8 @@
     color: white;
     text-align: center;
     font-size: 16px;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     width: fit-content;
 }
 
@@ -53,7 +59,8 @@
     color: white;
     text-align: center;
     font-size: 16px;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     width: fit-content;
 }
 
@@ -61,7 +68,8 @@
     color: white;
     text-align: center;
     font-size: 16px;
-    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     width: fit-content;
 }
 
