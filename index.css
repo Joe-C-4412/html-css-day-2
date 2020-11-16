@@ -1,5 +1,5 @@
 
-* header {
+* header1 {
     box-sizing: border-box;
     height: 6vh;
     background-color: rgb(22, 22, 22);
@@ -7,20 +7,23 @@
     align-items: center;
 }
 
-.github-logo {
-    background-color: rgb(22, 22, 22);
+.github-logo-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(37, 219, 31);
     height: 45px;
     width: 45px; 
     margin: 20px;
 }
 
-.kitten-pic {
+#githublogo { 
+    height: 40px;
     width: 40px; 
-    Height: 40px;
-    /* background-image: url('url here with https://'); */
-    border-radius: 60%;
+    border-radius: 5%;
     margin: 5px;
 }
+
 .search-bar {
     color: white;
     text-align: left;
@@ -73,6 +76,64 @@
     width: fit-content;
 }
 
+.top-right-divs {
+    box-sizing: border-box;
+    height: 6vh;
+    /* background-color: rgb(243, 7, 66); */
+    display: flex;
+    align-items: center;
+}
+
+.notification-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rgb(37, 219, 31); */
+    height: 30px;
+    width: 30px; 
+    margin: 5px;
+}
+
+#bell-icon {
+    height: 40px;
+    width: 40px; 
+    border-radius: 5%;
+    margin: 5px;
+}
+
+.dropdown-plus {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rgb(37, 219, 31); */
+    height: 30px;
+    width: 30px; 
+    margin: 5px;
+}
+
+#plus-icon {
+    height: 40px;
+    width: 40px; 
+    border-radius: 5%;
+    margin: 5px;
+}
+
+.profile-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: rgb(37, 219, 31); */
+    height: 30px;
+    width: 30px; 
+    margin: 5px;
+}
+
+#minecraft-icon {
+    height: 40px;
+    width: 40px; 
+    border-radius: 5%;
+    margin: 5px;
+}
 
 
 
